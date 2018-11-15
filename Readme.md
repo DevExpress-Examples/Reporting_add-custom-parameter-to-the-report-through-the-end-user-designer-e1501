@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomParameters/Form1.cs) (VB: [Form1.vb](./VB/CustomParameters/Form1.vb))
+* [MyParameter.cs](./CS/CustomParameters/MyParameter.cs) (VB: [MyParameter.vb](./VB/CustomParameters/MyParameter.vb))
+* [Program.cs](./CS/CustomParameters/Program.cs) (VB: [Program.vb](./VB/CustomParameters/Program.vb))
+* [XtraReport1.cs](./CS/CustomParameters/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/CustomParameters/XtraReport1.vb))
+<!-- default file list end -->
 # Add custom parameter to the report through the End-User Designer
 
 
